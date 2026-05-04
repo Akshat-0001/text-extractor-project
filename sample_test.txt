@@ -1,0 +1,23 @@
+Sample Document for Testing
+
+This is a test document for the async document processing system.
+
+The system will extract the following information:
+- Title: Derived from the filename
+- Category: Automatically categorized
+- Summary: A brief description of the document
+- Keywords: Important terms extracted from the content
+
+This document contains several keywords that should be extracted:
+processing, document, system, testing, extraction, workflow, async, background
+
+The processing workflow includes multiple stages:
+1. Document received
+2. Parsing started
+3. Parsing completed
+4. Extraction started
+5. Extraction completed
+6. Result stored
+7. Job completed
+
+You can upload this file to test the complete workflow from upload to export.
